@@ -100,7 +100,7 @@ Postez le lien de votre dépôt dans le chat.
 </details>
 
 ## TP 2 — Du commit à la release
-
+![ci](https://github.com/Atryos-0/kelvia-api/actions/workflows/ci.yml/badge.svg)
 ### 1. Recopier ci.yml et la ligne du badge (README) sur une branche, pull request, fusion.
 
 Fichier `.github/workflows/ci.yml` :
