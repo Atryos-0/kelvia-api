@@ -37,7 +37,7 @@ def verifier_quantite(quantite):
 # Latence simulée : chaque requête en cours ajoute 20 ms d'attente (elle monte sous ./charge.sh rush).
 en_cours = 0
 
-v2
+
 async def latence_simulee():
     global en_cours
     en_cours += 1
